@@ -14,6 +14,7 @@ This repository contains GPX (GPS Exchange Format) files of running routes I've 
 ## Current Routes
 
 ### Montreal, QC
+
 - **Montreal Sud-Ouest Historic 5km Route** (`Montreal-Sud-Ouest-Historic-5km-Route.gpx`)
   - Distance: ~5km
   - Location: Sud-Ouest borough, Montreal
@@ -26,6 +27,7 @@ This repository contains GPX (GPS Exchange Format) files of running routes I've 
 ## How to Use These Routes
 
 ### Importing to Running Apps
+
 Most running apps support GPX file imports:
 
 1. **Strava**: Upload via web interface or mobile app
@@ -34,24 +36,29 @@ Most running apps support GPX file imports:
 4. **MapMyRun**: Upload through the web interface
 
 ### Using with GPS Devices
+
 - **Garmin**: Copy GPX files to the `Garmin/NewFiles` folder
 - **Suunto**: Import via Suunto App
 - **Polar**: Import through Polar Flow web service
 
 ### Converting to Other Formats
+
 If you need routes in other formats (KML, TCX, etc.), you can use online converters or tools like:
+
 - [GPS Visualizer](https://www.gpsvisualizer.com/)
 - [GPX to KML Converter](https://www.gpsvisualizer.com/convert_input)
 
 ## Contributing
 
 This is a personal repository, but if you have route suggestions or improvements, feel free to:
+
 - Create an issue with route suggestions
 - Fork the repository and submit a pull request with new routes
 
 ## Route Creation
 
 When adding new routes, please:
+
 1. Use descriptive filenames (e.g., `City-Neighborhood-Distance-Route.xml`)
 2. Include route details in the README
 3. Ensure the GPX file is properly formatted and tested
@@ -61,6 +68,7 @@ When adding new routes, please:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 The MIT License is a very permissive license that allows others to:
+
 - Use the routes for any purpose
 - Modify and adapt the routes
 - Distribute the routes freely
@@ -72,4 +80,4 @@ Please respect local regulations and private property when using these routes fo
 
 ---
 
-*Happy running! 🏃‍♂️* 
+Happy running! 🏃‍♂️
