@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Montreal Sud-Ouest Historic Route">
+  <metadata>
+    <name>Montreal Sud-Ouest Historic 5km Running Route</name>
+    <desc>A cultural running tour through Little Burgundy and Sud-Ouest, featuring jazz heritage sites, historic architecture, and industrial landmarks</desc>
+    <author>
+      <name>Ciele Athletics Montreal</name>
+    </author>
+    <time>2025-01-01T00:00:00Z</time>
+  </metadata>
+  
+  <wpt lat="45.479722" lon="-73.576944">
+    <name>Start/Finish: Ciele Athletics MTL</name>
+    <desc>1630 Notre-Dame St West - Washrooms and water available</desc>
+    <sym>Flag</sym>
+  </wpt>
+  
+  <wpt lat="45.477778" lon="-73.579722">
+    <name>Oscar Peterson Park</name>
+    <desc>Jazz murals of Daisy Sweeney and Oscar Peterson</desc>
+    <sym>Monument</sym>
+  </wpt>
+  
+  <wpt lat="45.475556" lon="-73.583333">
+    <name>Former Negro Community Centre</name>
+    <desc>Historic site - now empty lot, purchased by City in 2022</desc>
+    <sym>Information</sym>
+  </wpt>
+  
+  <wpt lat="45.474167" lon="-73.585278">
+    <name>Rue Coursol Historic Houses</name>
+    <desc>Colorful 1870s row houses - architectural heritage</desc>
+    <sym>Building</sym>
+  </wpt>
+  
+  <wpt lat="45.473333" lon="-73.586944">
+    <name>Little Burgundy Community Garden</name>
+    <desc>Between Rue Coursol and Rue Quesnel</desc>
+    <sym>Park</sym>
+  </wpt>
+  
+  <wpt lat="45.471944" lon="-73.588889">
+    <name>Centre Culturel Georges-Vanier</name>
+    <desc>Former Sainte-Cunégonde city hall (1904) - Oliver Jones mural, Jazzmen Park, Vinet Park nearby</desc>
+    <sym>Building</sym>
+  </wpt>
+  
+  <wpt lat="45.474167" lon="-73.600833">
+    <name>Atwater Market</name>
+    <desc>Art Deco building from 1933 - Major landmark</desc>
+    <sym>Shopping</sym>
+  </wpt>
+  
+  <wpt lat="45.476389" lon="-73.598056">
+    <name>Charlevoix Park (Daisy Peterson Sweeney Park)</name>
+    <desc>Named after Daisy Peterson Sweeney</desc>
+    <sym>Park</sym>
+  </wpt>
+  
+  <wpt lat="45.478333" lon="-73.597500">
+    <name>Charlevoix Bridge</name>
+    <desc>Heritage swing bridge from 1861 - Key turning point</desc>
+    <sym>Bridge</sym>
+  </wpt>
+  
+  <wpt lat="45.480278" lon="-73.594167">
+    <name>Arsenal Contemporary Art</name>
+    <desc>80,000 sq ft gallery in former 1853 shipyard - Follow train tracks to reach</desc>
+    <sym>Museum</sym>
+  </wpt>
+  
+  <trk>
+    <name>Montreal Sud-Ouest Historic 5km Route</name>
+    <type>Running</type>
+    <trkseg>
+      <!-- Start at Ciele Athletics on Notre-Dame W -->
+      <trkpt lat="45.479722" lon="-73.576944">
+        <ele>20</ele>
+        <name>Start at Ciele Athletics</name>
+      </trkpt>
+      
+      <!-- Head west on Notre-Dame St W -->
+      <trkpt lat="45.479700" lon="-73.577200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479650" lon="-73.577500">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479600" lon="-73.577800">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479550" lon="-73.578100">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479500" lon="-73.578400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479450" lon="-73.578700">
+        <ele>20</ele>
+      </trkpt>
+      
+      <!-- Turn south towards Oscar Peterson Park area -->
+      <trkpt lat="45.479400" lon="-73.579000">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479000" lon="-73.579100">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.478600" lon="-73.579200">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.478200" lon="-73.579400">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.477778" lon="-73.579722">
+        <ele>22</ele>
+        <name>Oscar Peterson Park</name>
+      </trkpt>
+      
+      <!-- Continue southwest on Rue Canning -->
+      <trkpt lat="45.477400" lon="-73.580100">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.477000" lon="-73.580500">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.476600" lon="-73.580900">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.476200" lon="-73.581300">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.475800" lon="-73.581700">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.475400" lon="-73.582100">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.475000" lon="-73.582500">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474600" lon="-73.582900">
+        <ele>24</ele>
+      </trkpt>
+      
+      <!-- To former NCC site -->
+      <trkpt lat="45.475556" lon="-73.583333">
+        <ele>24</ele>
+        <name>Former NCC site</name>
+      </trkpt>
+      
+      <!-- Continue to Rue Coursol via Rue Vinet -->
+      <trkpt lat="45.475200" lon="-73.583700">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474800" lon="-73.584100">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474400" lon="-73.584500">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474167" lon="-73.585278">
+        <ele>25</ele>
+        <name>Rue Coursol</name>
+      </trkpt>
+      
+      <!-- West on Coursol towards Community Garden -->
+      <trkpt lat="45.474000" lon="-73.585600">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.473800" lon="-73.586000">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.473600" lon="-73.586400">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.473333" lon="-73.586944">
+        <ele>25</ele>
+        <name>Community Garden</name>
+      </trkpt>
+      
+      <!-- Continue to Rue Quesnel and south to Georges-Vanier area -->
+      <trkpt lat="45.473100" lon="-73.587300">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.472800" lon="-73.587700">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.472500" lon="-73.588100">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="45.472200" lon="-73.588500">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="45.471944" lon="-73.588889">
+        <ele>26</ele>
+        <name>Centre Georges-Vanier</name>
+      </trkpt>
+      
+      <!-- Loop around Vinet Park area to see murals -->
+      <trkpt lat="45.471700" lon="-73.589200">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="45.471400" lon="-73.589500">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="45.471100" lon="-73.589800">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="45.471400" lon="-73.590100">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="45.471700" lon="-73.590400">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="45.472000" lon="-73.590700">
+        <ele>25</ele>
+      </trkpt>
+      
+      <!-- North on Georges-Vanier Blvd to Notre-Dame -->
+      <trkpt lat="45.472300" lon="-73.590600">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.472600" lon="-73.590500">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.472900" lon="-73.590400">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.473200" lon="-73.590300">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="45.473500" lon="-73.590200">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.473800" lon="-73.590100">
+        <ele>24</ele>
+      </trkpt>
+      
+      <!-- Turn west on Notre-Dame W through Restaurant Row -->
+      <trkpt lat="45.473850" lon="-73.590500">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.473900" lon="-73.591000">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.473950" lon="-73.591500">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474000" lon="-73.592000">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474050" lon="-73.592500">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474100" lon="-73.593000">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474150" lon="-73.593500">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.594000">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.594500">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.595000">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.595500">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.596000">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.596500">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.597000">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.597500">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.598000">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.598500">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.599000">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.599500">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474200" lon="-73.600000">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474167" lon="-73.600833">
+        <ele>23</ele>
+        <name>Atwater Market</name>
+      </trkpt>
+      
+      <!-- North on Atwater Ave -->
+      <trkpt lat="45.474500" lon="-73.600700">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.474800" lon="-73.600600">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="45.475100" lon="-73.600500">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.475400" lon="-73.600400">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.475700" lon="-73.600300">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.476000" lon="-73.600200">
+        <ele>22</ele>
+      </trkpt>
+      
+      <!-- East towards Charlevoix Park -->
+      <trkpt lat="45.476100" lon="-73.599800">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.476200" lon="-73.599400">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.476300" lon="-73.599000">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.476389" lon="-73.598056">
+        <ele>22</ele>
+        <name>Charlevoix Park</name>
+      </trkpt>
+      
+      <!-- Continue northeast to Charlevoix Bridge -->
+      <trkpt lat="45.476600" lon="-73.597900">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.476900" lon="-73.597800">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="45.477200" lon="-73.597700">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.477500" lon="-73.597600">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.477800" lon="-73.597550">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.478100" lon="-73.597500">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.478333" lon="-73.597500">
+        <ele>21</ele>
+        <name>Charlevoix Bridge</name>
+      </trkpt>
+      
+      <!-- Cross street and follow train tracks northeast -->
+      <trkpt lat="45.478600" lon="-73.597200">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.478900" lon="-73.596800">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.479200" lon="-73.596400">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.479500" lon="-73.596000">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="45.479800" lon="-73.595600">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480000" lon="-73.595200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480100" lon="-73.594800">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480200" lon="-73.594400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480278" lon="-73.594167">
+        <ele>20</ele>
+        <name>Arsenal Contemporary Art</name>
+      </trkpt>
+      
+      <!-- Continue past Arsenal then head back -->
+      <trkpt lat="45.480400" lon="-73.593800">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480500" lon="-73.593400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480600" lon="-73.593000">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480700" lon="-73.592600">
+        <ele>20</ele>
+      </trkpt>
+      
+      <!-- Head south on William Street -->
+      <trkpt lat="45.480500" lon="-73.592500">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480200" lon="-73.592400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479900" lon="-73.592300">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479600" lon="-73.592200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479300" lon="-73.592100">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479000" lon="-73.592000">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.478700" lon="-73.591900">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.478400" lon="-73.591800">
+        <ele>20</ele>
+      </trkpt>
+      
+      <!-- Continue on William Street east -->
+      <trkpt lat="45.478300" lon="-73.591400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.478200" lon="-73.591000">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.478100" lon="-73.590600">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.478000" lon="-73.590200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477900" lon="-73.589800">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477800" lon="-73.589400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477700" lon="-73.589000">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477600" lon="-73.588600">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477500" lon="-73.588200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477400" lon="-73.587800">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477300" lon="-73.587400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477200" lon="-73.587000">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477100" lon="-73.586600">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477000" lon="-73.586200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.476900" lon="-73.585800">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.476800" lon="-73.585400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.476700" lon="-73.585000">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.476600" lon="-73.584600">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.476500" lon="-73.584200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.476400" lon="-73.583800">
+        <ele>20</ele>
+      </trkpt>
+      
+      <!-- Turn north on Guy Street -->
+      <trkpt lat="45.476600" lon="-73.583700">
+        <ele>20</ele>
+        <name>Turn on Guy St</name>
+      </trkpt>
+      <trkpt lat="45.476900" lon="-73.583600">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477200" lon="-73.583500">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477500" lon="-73.583400">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.477800" lon="-73.583300">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.478100" lon="-73.583200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.478400" lon="-73.583100">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.478700" lon="-73.583000">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479000" lon="-73.582900">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479300" lon="-73.582800">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479600" lon="-73.582700">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479900" lon="-73.582600">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480200" lon="-73.582500">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480500" lon="-73.582400">
+        <ele>20</ele>
+      </trkpt>
+      
+      <!-- Turn east on Notre-Dame St W -->
+      <trkpt lat="45.480600" lon="-73.582100">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480650" lon="-73.581700">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480700" lon="-73.581300">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480700" lon="-73.580900">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480650" lon="-73.580500">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480600" lon="-73.580100">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480550" lon="-73.579700">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480500" lon="-73.579300">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480450" lon="-73.578900">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480400" lon="-73.578500">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480350" lon="-73.578100">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480300" lon="-73.577700">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.480250" lon="-73.577300">
+        <ele>20</ele>
+      </trkpt>
+      
+      <!-- Return to start -->
+      <trkpt lat="45.480100" lon="-73.577200">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479900" lon="-73.577100">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="45.479722" lon="-73.576944">
+        <ele>20</ele>
+        <name>Finish at Ciele Athletics</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
