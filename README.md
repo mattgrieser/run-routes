@@ -14,11 +14,11 @@ This repository contains GPX (GPS Exchange Format) files of running routes I've 
 ## Current Routes
 
 ### Montreal, QC
-- **Montreal Sud-Ouest Historic 5km Route** (`Montreal-Sud-Ouest-Historic-5km-Route.xml`)
+- **Montreal Sud-Ouest Historic 5km Route** (`Montreal-Sud-Ouest-Historic-5km-Route.gpx`)
   - Distance: ~5km
   - Location: Sud-Ouest borough, Montreal
   - Features: Historic neighborhoods, parks, and waterfront views
-- **Montreal Sud-Ouest 5km Route v2** (`montreal-sud-ouest-5km-route-v2.xml`)
+- **Montreal Sud-Ouest 5km Route v2** (`montreal-sud-ouest-5km-route-v2.gpx`)
   - Distance: ~5km
   - Location: Sud-Ouest borough, Montreal
   - Features: Smoother route with improved navigation points
