@@ -18,6 +18,10 @@ This repository contains GPX (GPS Exchange Format) files of running routes I've 
   - Distance: ~5km
   - Location: Sud-Ouest borough, Montreal
   - Features: Historic neighborhoods, parks, and waterfront views
+- **Montreal Sud-Ouest 5km Route v2** (`montreal-sud-ouest-5km-route-v2.xml`)
+  - Distance: ~5km
+  - Location: Sud-Ouest borough, Montreal
+  - Features: Smoother route with improved navigation points
 
 ## How to Use These Routes
 
