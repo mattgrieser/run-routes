@@ -54,7 +54,17 @@ When adding new routes, please:
 
 ## License
 
-This repository is for personal use. Please respect local regulations and private property when using these routes for running.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License is a very permissive license that allows others to:
+- Use the routes for any purpose
+- Modify and adapt the routes
+- Distribute the routes freely
+- Use the routes commercially
+
+The only requirement is that the original copyright notice and license are included in any copies.
+
+Please respect local regulations and private property when using these routes for running.
 
 ---
 
